@@ -6,4 +6,5 @@
 - `test_registration.py` — тест регистрации пользователя на сайте с использованием Selenium.
 
 ## Задачи с 3 модуля
-- 
+- `conftest.py` - 3.6
+- `test_items.py` - 3.6
